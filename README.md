@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Vitaly Chopik — Thoughtful work. Useful on the web." width="100%">
+  <img src="assets/profile-banner.svg" alt="Vitaly Chopik — From concept to production" width="100%">
 </div>
 
 <p align="center">
@@ -7,30 +7,38 @@
   &nbsp;·&nbsp;
   <a href="https://t.me/vitalychopik">Telegram</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/VitalyChopik?tab=repositories">Repositories</a>
+  <a href="https://github.com/VitalyChopik?tab=repositories">GitHub projects</a>
 </p>
 
 ---
 
 ## Hi, I'm Vitaly 👋
 
-I build websites, WordPress tooling, and small digital products. I care about clear interfaces, practical details, and work that stays maintainable after launch.
+I design and build digital products from the first idea through launch and ongoing improvement. My work spans **Next.js applications**, **web funnels**, **payment flows**, and **third-party integrations**—as well as WordPress when it's the right fit.
 
-Most of my work lives around **web development**, **WordPress**, and **growing useful online products**.
+I care about the whole product journey: clear user flows, dependable backend connections, and interfaces that are easy to maintain.
 
-## Selected work
+## Selected projects
 
-| Project | What it is |
+| Project | What it does |
 | --- | --- |
-| [growth.by](https://growth.by) | My web and digital growth work |
-| [Vite WordPress](https://github.com/VitalyChopik/vite-wordpress) | A Vite workflow for building front-end pages and WordPress themes |
-| [TimeRateCalc](https://github.com/VitalyChopik/TimeRateCalc) | A small hourly-rate calculator built with TypeScript |
-| [Portfolio](https://github.com/VitalyChopik/vitalychopik.github.io) | Personal portfolio |
+| [MindsVary](https://mindsvary.com) | A multilingual educational platform about mental health and neurodiversity |
+| [FaveSift](https://www.favesift.com) | A gift discovery platform with editorial guides and a guided finder |
+| [PRO24](https://pro24.by) | A marketplace connecting people with service providers across Belarus |
+| [Uznal.by](https://uznal.by) | A Belarus-focused publication about everyday questions, places, and useful things |
+| [growth.by](https://growth.by) | My web development and digital growth work |
 
-## Tools I work with
+## What I work on
 
-WordPress · PHP · JavaScript · TypeScript · Vite · SCSS
+- **Web products:** Next.js, React, TypeScript, APIs, and backend integrations
+- **Funnels:** landing pages, user journeys, onboarding, and conversion flows
+- **Payments:** checkout, subscriptions, webhooks, and payment provider integrations
+- **Content platforms:** WordPress, headless CMS, multilingual publishing, and SEO
+
+## Tools
+
+Next.js · React · TypeScript · Node.js · WordPress · PHP · PostgreSQL · REST APIs
 
 ---
 
-<p align="center"><sub>Based in Belarus · Building for the open web</sub></p>
+<p align="center"><sub>Based in Belarus · Working with teams and products worldwide</sub></p>
